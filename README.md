@@ -6,7 +6,7 @@
 
 This repository is part of the *Synthetic Causal Framework* (SCF) project and is dedicated to publicly hosting the latest version of the freely available research paper: [*The Synthetic Causal Framework: An LLM-based Solution to the Fundamental Problem of Causal Inference*](https://emeyer-hansen.github.io/synthetic-causal-framework/) (v2025-03-18-18-49).
 
-The ongoing development of the SCF project is instead maintained at the [synthetic_causal_framework](https://github.com/emeyer-hansen/synthetic_causal_framework) Github-directory.
+The ongoing development of the SCF project is instead maintained on the [*Open Science Framework* (OSF) project page](https://osf.io/5p3m2/) (DOI: [10.17605/OSF.IO/5P3M2](https://doi.org/10.17605/OSF.IO/5P3M2)), with materials alternatively provided at the [synthetic_causal_framework](https://github.com/emeyer-hansen/synthetic_causal_framework) Github-directory.
 
 ## License (Addendum)
 Except where otherwise indicated, all contents of this document and associated files are licensed under the *Creative Commons
